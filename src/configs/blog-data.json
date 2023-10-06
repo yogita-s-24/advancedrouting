@@ -1,10 +1,10 @@
 [
     { 
         "id": "1",
-        "title" : "How to create first web page.",
-        "description": "This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
-        "content": "This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "author" : "Sai",
+        "title" : "Bullet",
+        "description": "The Bullet bike is a classic two-wheeled transportation device known for its iconic design and powerful performance. Whether you choose the traditional, human-powered model or the modern electric-assisted version, you'll find that it offers a thrilling riding experience.",
+        "content": "Bullet bikes come in various types, including road, cruiser, and classic models, each catering to different preferences and riding styles. These bikes are typically constructed using materials such as steel, aluminum, or carbon fiber, ensuring durability and reliability.",
+        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
         "date": "2019-08-3"
     },
 
@@ -13,7 +13,7 @@
         "title" :"How to add image in html file?",
         "description":"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
         "content":"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "author" : "Krish",    
+        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",    
         "date" :  "2017-04-5"
 
     },
@@ -23,7 +23,31 @@
         "title" : "What is HTML ?",
         "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
         "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "author" : "Deva",
+        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
+        "date" : "2016-01-1"
+    },
+    {
+        "id": "4",
+        "title" : "What is HTML ?",
+        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
+        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
+        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
+        "date" : "2016-01-1"
+    },
+    {
+        "id": "5",
+        "title" : "What is HTML ?",
+        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
+        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
+        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
+        "date" : "2016-01-1"
+    },
+    {
+        "id": "6",
+        "title" : "What is HTML ?",
+        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
+        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
+        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
         "date" : "2016-01-1"
     }
 ]

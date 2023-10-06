@@ -20,7 +20,7 @@ function ReadPost() {
   return (
     <div>
       <h1>{post.title}</h1>
-       <span>By {post.author}</span>
+      <img src={post.image}/>
       <p>{post.description}</p>
       <p>{post.content}</p>
       <p>Published On {post.date}</p>  
