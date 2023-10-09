@@ -9,7 +9,7 @@ function Posts() {
     <div>
 <Navbar/>
     {/* <h1>Posts</h1> */}
-    <div className='container  m-auto '>
+    <div className='container  m-auto'>
          {
           blogData.map((post,index)=>{
             return <PreviewPostCard key={index} id={post.id} title={post.title} description={post.description} content={post.content} image={post.image} date={post.date}/>
