@@ -1,53 +1,54 @@
 [
     { 
         "id": "1",
-        "title" : "Bullet",
-        "description": "The Bullet bike is a classic two-wheeled transportation device known for its iconic design and powerful performance. Whether you choose the traditional, human-powered model or the modern electric-assisted version, you'll find that it offers a thrilling riding experience.",
-        "content": "Bullet bikes come in various types, including road, cruiser, and classic models, each catering to different preferences and riding styles. These bikes are typically constructed using materials such as steel, aluminum, or carbon fiber, ensuring durability and reliability.",
-        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
-        "date": "2019-08-3"
+        "title" : "React",
+        "description": "React is a JavaScript frontend library for building user interfaces. ",
+
+        "content": "It is maintained by Facebook and a community of individual developers and companies. You can use React to make single-page websites or mobile apps. React is a JavaScript library created by Facebook. React is a User Interface (UI) library. React is a tool for building UI components",
+        "image" : "https://cdn-icons-png.flaticon.com/128/1183/1183672.png",
+        "date": "2023"
     },
 
     {
         "id": "2",
-        "title" :"How to add image in html file?",
-        "description":"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
-        "content":"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",    
-        "date" :  "2017-04-5"
+        "title" :"NodeJs",
+        "description":"Node.js is an open source server environment.",
+        "content":" Node.js is free. Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.). Node.js uses JavaScript on the server. Node.js can generate dynamic page content. Node.js can create, open, read, write,delete, and close files on the server. Node.js can collect form data. Node.js can add, delete, modify data in your database",
+        "image" : "https://cdn-icons-png.flaticon.com/128/919/919825.png",    
+        "date" :  "2009"
 
     },
 
     {
         "id": "3",
-        "title" : "What is HTML ?",
-        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
-        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
-        "date" : "2016-01-1"
+        "title" : "MangoDB",
+        "description" :"MongoDB is a document database.",
+        "content"  :"It stores data in a type of JSON format called BSON. If you are unfamiliar with JSON, check out our JSON tutorial. A record in MongoDB is a document, which is a data structure composed of key value pairs similar to the structure of JSON objects.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/9850/9850774.png",
+        "date" : "2007"
     },
     {
         "id": "4",
-        "title" : "What is HTML ?",
-        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
-        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
-        "date" : "2016-01-1"
+        "title" : "HTML",
+        "description" :"HTML stands for Hyper Text Markup Language",
+        "content"  :"HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/1051/1051277.png",
+        "date" : "1993"
     },
     {
         "id": "5",
-        "title" : "What is HTML ?",
-        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
-        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
-        "date" : "2016-01-1"
+        "title" : "CSS",
+        "description" :"CSS is the language we use to style an HTML document.",
+        "content"  :"CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media.CSS saves a lot of work.  CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/732/732190.png",
+        "date" : "10 October 1994"
     },
     {
         "id": "6",
-        "title" : "What is HTML ?",
-        "description" :"This is a very basic tutorial on how you can make your own website. This will help you understand the basics of HTML.",
-        "content"  :"This is a very simple example of how you can use HTML and CSS to make your own website. This tutorial will teach.",
-        "image" : "https://i.pinimg.com/originals/aa/9b/ef/aa9bef5e67f81f3e2b297a8105a6f652.gif",
-        "date" : "2016-01-1"
+        "title" : "JavaScript",
+        "description" :"JavaScript is the world's most popular programming language.",
+        "content"  :"JavaScript is a dynamic programming language, a scripting language used to develop web applications, games, and more. It allows us to implement dynamic features on web pages that cannot do with just HTML and CSS. Javscript are supported by all browsers.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/5968/5968292.png",
+        "date" : "1995"
     }
 ]

@@ -4,18 +4,19 @@ import "./Home.css";
 
 function Home() {
   return (
-    
-    <div className="container">
-      <div>
+    <>
+    <div className="container bg-color">
+      <div className="content">
         <Link to="/">Home</Link>
       </div>
-      <div>
+      <div className="content">
         <Link to="/post">Post</Link>
       </div>
-      <div>
+      <div className="content">
         <Link to="/readpost">Read Post</Link>
       </div>
     </div>
+      </>
   );
 }
 
